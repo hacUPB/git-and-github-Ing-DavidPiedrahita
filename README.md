@@ -24,7 +24,14 @@ Crea y activa un entorno virtual para aislar las dependencias (por ejemplo, con 
 5. Ejecutar el proyecto:
 Ejecuta el archivo principal del proyecto, por ejemplo, con python main.py o el comando que indique la documentación.
 
-Enlaces
+Enlaces:
+
+1.[Uso de consola](./docs/uso_consola.md)
+
+2.[Repositorio Local](./docs/repositorio_local.md)
+
+3.[Repositorio Remoto](./docs/repositorio_remoto.md)
+
 ---
 # Evaluación
 

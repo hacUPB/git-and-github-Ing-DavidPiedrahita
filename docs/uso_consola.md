@@ -11,3 +11,4 @@ vim: editar archivos (editores de texto en consola)
 git add / git commit: guardar cambios en Git (control de versiones)
 ls: listar archivos y carpetas (hacer más cosas con archivos/carpetas)
 
+![En esta imagen se observan comandos de creacion de archivos y de carpetas](/images/crear%20carpetas%20y%20archivos.png)

@@ -10,3 +10,4 @@ git commit -m "[mensaje]": guarda los cambios añadidos con un mensaje descripti
 git status: muestra el estado actual del repositorio y los archivos modificados
 git log: muestra el historial de commits realizados
 
+![En esta imagen se observan comandos de como enlazar con un repositorio en Github ](/images/git%20remote%20add.png)

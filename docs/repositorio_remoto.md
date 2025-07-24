@@ -18,3 +18,5 @@ git remote add origin [URL]: conecta el repositorio local con el remoto de GitHu
 git push -u origin main: sube los cambios iniciales a la rama principal y establece el seguimiento remoto
 git pull origin main: sincroniza los cambios del repositorio remoto con el local
 git status: verifica el estado de los archivos en el repositorio local
+
+![En esta imagen se observan comandos de guardado de checkpoints en git ](/images/git%20add%20git%20commit.png)
