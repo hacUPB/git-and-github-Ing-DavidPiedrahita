@@ -8,4 +8,6 @@ mkdir: crear carpetas o directorios
 rm: eliminar archivos o directorios
 cd: trasladarnos o navegar entre directorios
 vim: editar archivos (editores de texto en consola)
+git add / git commit: guardar cambios en Git (control de versiones)
+ls: listar archivos y carpetas (hacer más cosas con archivos/carpetas)
 
