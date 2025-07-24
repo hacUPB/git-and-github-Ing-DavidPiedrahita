@@ -2,6 +2,7 @@
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  David Piedrahíta Valencia
+
 Id.:  000577196
 
 Contenido de este README:
