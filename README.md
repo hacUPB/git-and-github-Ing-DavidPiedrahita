@@ -1,7 +1,38 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  David Piedrahíta Valencia
+
+Id.:  000577196
+
+Contenido de este README:
+En este readme estoy haciendo un script en python, además de unos pasos y explicaciones de como usar git y github.
+
+Pasos para clonar y ejecutar un proyecto:
+
+1. Clonar el repositorio:
+Usa el comando git clone [URL_del_repositorio] para copiar todo el proyecto a tu equipo.
+
+2. Entrar al directorio del proyecto:
+Usa cd nombre_del_proyecto para moverte a la carpeta del proyecto recién clonado.
+
+3. Instalar dependencias:
+Si es un proyecto en Python, normalmente ejecuta pip install -r requirements.txt para instalar las librerías necesarias.
+
+4. Configurar el entorno (opcional):
+Crea y activa un entorno virtual para aislar las dependencias (por ejemplo, con python -m venv env y luego activándolo).
+
+5. Ejecutar el proyecto:
+Ejecuta el archivo principal del proyecto, por ejemplo, con python main.py o el comando que indique la documentación.
+
+Enlaces:
+
+1.[Uso de consola](./docs/uso_consola.md)
+
+2.[Repositorio Local](./docs/repositorio_local.md)
+
+3.[Repositorio Remoto](./docs/repositorio_remoto.md)
+
 ---
 # Evaluación
 
